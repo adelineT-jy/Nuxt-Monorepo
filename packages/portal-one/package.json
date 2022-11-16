@@ -1,0 +1,33 @@
+{
+  "name": "portal-one",
+  "version": "1.0.0",
+  "description": "To be or not to be",
+  "keywords": [],
+  "author": "Adeline <tan.adelinejy@gmail.com>",
+  "license": "ISC",
+  "scripts": {
+    "dev": "cross-env ENVIRONMENT=development nuxt",
+    "prod": "cross-env ENVIRONMENT=production nuxt",
+    "local": "cross-env LOCAL=true nuxt",
+    "build": "nuxt build",
+    "build:development": "cross-env ENVIRONMENT=development nuxt build",
+    "build:production": "cross-env ENVIRONMENT=production nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "update:icons": "npm uninstall @streamlinehq/streamlinehq && npm install @streamlinehq/streamlinehq",
+    "lint:js": "eslint --ext .js,.vue --ignore-path .gitignore .",
+    "lint": "npm run lint:js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "nuxt": "^2.15.8"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^6.1.3",
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.19",
+    "postcss-import": "^15.0.0",
+    "postcss-nested": "^6.0.0",
+    "tailwindcss": "^3.2.4"
+  }
+}

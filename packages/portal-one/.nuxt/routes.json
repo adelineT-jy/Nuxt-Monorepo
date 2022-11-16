@@ -1,0 +1,23 @@
+[
+  {
+    "name": "one",
+    "path": "/one",
+    "component": "C:\\\\Users\\\\adeli\\\\OneDrive\\\\Desktop\\\\LernaTestRun\\\\packages\\\\portal-one\\\\pages\\\\one\\\\index.vue",
+    "chunkName": "pages/one/index",
+    "_name": "_a3ba86d6"
+  },
+  {
+    "name": "second",
+    "path": "/second",
+    "component": "C:\\\\Users\\\\adeli\\\\OneDrive\\\\Desktop\\\\LernaTestRun\\\\packages\\\\portal-one\\\\pages\\\\second\\\\index.vue",
+    "chunkName": "pages/second/index",
+    "_name": "_da3ad6f6"
+  },
+  {
+    "name": "one-id-info",
+    "path": "/one/:id/info",
+    "component": "C:\\\\Users\\\\adeli\\\\OneDrive\\\\Desktop\\\\LernaTestRun\\\\packages\\\\portal-one\\\\pages\\\\one\\\\_id\\\\info.vue",
+    "chunkName": "pages/one/_id/info",
+    "_name": "_19af39ab"
+  }
+]

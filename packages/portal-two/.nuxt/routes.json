@@ -1,0 +1,32 @@
+[
+  {
+    "name": "twoMain",
+    "path": "/twoMain",
+    "component": "C:\\\\Users\\\\adeli\\\\OneDrive\\\\Desktop\\\\LernaTestRun\\\\packages\\\\portal-two\\\\pages\\\\twoMain\\\\index.vue",
+    "chunkName": "pages/twoMain/index"
+  },
+  {
+    "name": "twoSecond",
+    "path": "/twoSecond",
+    "component": "C:\\\\Users\\\\adeli\\\\OneDrive\\\\Desktop\\\\LernaTestRun\\\\packages\\\\portal-two\\\\pages\\\\twoSecond\\\\index.vue",
+    "chunkName": "pages/twoSecond/index"
+  },
+  {
+    "name": "one",
+    "path": "/one",
+    "component": "C:\\\\Users\\\\adeli\\\\OneDrive\\\\Desktop\\\\LernaTestRun\\\\packages\\\\portal-one\\\\pages\\\\one\\\\index.vue",
+    "chunkName": "pages/one/index"
+  },
+  {
+    "name": "second",
+    "path": "/second",
+    "component": "C:\\\\Users\\\\adeli\\\\OneDrive\\\\Desktop\\\\LernaTestRun\\\\packages\\\\portal-one\\\\pages\\\\second\\\\index.vue",
+    "chunkName": "pages/second/index"
+  },
+  {
+    "name": "one-id-info",
+    "path": "/one/:id/info",
+    "component": "C:\\\\Users\\\\adeli\\\\OneDrive\\\\Desktop\\\\LernaTestRun\\\\packages\\\\portal-one\\\\pages\\\\one\\\\_id\\\\info.vue",
+    "chunkName": "pages/one/_id/info"
+  }
+]
