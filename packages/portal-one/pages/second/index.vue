@@ -10,9 +10,9 @@
       <h2 class="mt-4">
         Let us expand this page with components from the same package
       </h2>
-      <ComponentA />
       <h2>TRY</h2>
     </center>
+    <ComponentA />
   </div>
 </template>
 
